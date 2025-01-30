@@ -7,4 +7,4 @@
 💬#learninginpublic in my [digital garden](shaaficiyuusuf80@gmail.com)<br/>
 🔭Currently learning about data analytics !<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShafieYusuf&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShafieYusuf&layout=compact)
