@@ -3,13 +3,13 @@
 # 👋 Hi, I'm Shafie Yusuf
 💻 ** Web Developer **  
 🚀 Building Modern Scalable Web applications Clean Architecture and longterm Maintainability 
-🔨| Transforming ideas into Realworld Digital Solotion
+🔨 Transforming ideas into Realworld Digital Solotion
 🌱 Passionate about continuous learning and clean code  
 📍 Somalia  
 
 ## 🧑‍💻 About Me
 - 🎓 Computer Science graduate from **Jamhuriya University of Science & Technology (JUST)**
-- 💼 Own a personal **shafie-business-card.vercel.app** to showcase my projects and professional profile
+- 💼 Own a personal [shafie-business-card.vercel.app ](https://shafie-business-card.vercel.app)to showcase my projects and professional profile
 - 📹 Sharing programming and tech content on YouTube
 - 🤝 Open to collaboration and freelance opportunities
 - 💡 Motivated by solving real-world problems through technology
@@ -35,35 +35,7 @@
 ![VS Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShafieYusuf&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShafieYusuf&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafieYusuf&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 🚀 Top Contributions
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ShafieYusuf&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ShafieYusuf&icon=0&color=0" />
-</p>
-
----
 
 ## ☕ Support My Work
 
@@ -71,7 +43,7 @@ If you enjoy my projects or content, you can support me here:
 
 <p align="center">
   <a href="https://buymeacoffee.com/Shaafici_Official">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    <img src="https://shafie-business-card.vercel.app" />
   </a>
 </p>
 
