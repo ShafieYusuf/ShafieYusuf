@@ -1,10 +1,10 @@
 
 <!-- Level 1: Simple bio and stats -->
 # 👋 Hi, I'm Shafie Yusuf
-#💻 **Web Developer**  
-#🔨 **Transforming ideas into Realworld Digital Solotion**
-#🚀 Building Modern Scalable Web applications Clean Architecture and longterm Maintainability 
-#🌱 Passionate about continuous learning and clean code
+##💻 **Web Developer**  
+##🔨 **Transforming ideas into Realworld Digital Solotion**
+##🚀 Building Modern Scalable Web applications Clean Architecture and longterm Maintainability 
+##🌱 Passionate about continuous learning and clean code
 
 📍 Somalia  
 
