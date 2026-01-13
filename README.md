@@ -3,8 +3,9 @@
 # 👋 Hi, I'm Shafie Yusuf
 💻 **Web Developer**  
 🚀 Building Modern Scalable Web applications Clean Architecture and longterm Maintainability 
+🌱 Passionate about continuous learning and clean code
 🔨 **Transforming ideas into Realworld Digital Solotion**
-🌱 Passionate about continuous learning and clean code  
+
 📍 Somalia  
 
 ## 🧑‍💻 About Me
