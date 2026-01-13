@@ -1,15 +1,15 @@
 
 <!-- Level 1: Simple bio and stats -->
 # 👋 Hi, I'm Shafie Yusuf
-💻 ** Web Developer **  
+💻 **Web Developer**  
 🚀 Building Modern Scalable Web applications Clean Architecture and longterm Maintainability 
-🔨 Transforming ideas into Realworld Digital Solotion
+🔨 **Transforming ideas into Realworld Digital Solotion**
 🌱 Passionate about continuous learning and clean code  
 📍 Somalia  
 
 ## 🧑‍💻 About Me
 - 🎓 Computer Science graduate from **Jamhuriya University of Science & Technology (JUST)**
-- 💼 Own a personal [shafie-business-card.vercel.app ](https://shafie-business-card.vercel.app)to showcase my projects and professional profile
+- 💼 **Own a personal [shafie-business-card.vercel.app ](https://shafie-business-card.vercel.app)to showcase my projects and professional profile**
 - 📹 Sharing programming and tech content on YouTube
 - 🤝 Open to collaboration and freelance opportunities
 - 💡 Motivated by solving real-world problems through technology
